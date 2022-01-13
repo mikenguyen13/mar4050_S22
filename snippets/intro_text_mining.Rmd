@@ -1,0 +1,101 @@
+---
+title: "Introduction Post Text Mining"
+output: html_notebook
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+[Python code](https://github.com/dsp444/save_canvas_discussion)
+
+```{r, eval=FALSE}
+html = "https://umsystem.instructure.com/api/v1/courses/41919/discussion_topics/595033/view?include_new_entries=1&include_enrollment_state=1"
+```
+
+Step 1: Import libraries
+
+```{r, message=FALSE}
+library("tidyverse")
+library("tm")
+library("SnowballC")
+library("wordcloud")
+library("RColorBrewer")
+```
+
+Step 2: Import and clean data
+
+```{r, message=FALSE}
+data = rio::import(file.path(getwd(),"discussion-report-all_data.csv"))
+
+clean_data = data %>% 
+  distinct(entry_id, .keep_all = T) %>% 
+  select(entry_message) %>% 
+  mutate(entry_message = gsub("&nbsp;"," ",entry_message,fixed = TRUE))
+
+docs = Corpus(VectorSource(clean_data$entry_message))
+
+docs <- docs %>%
+  tm_map(removeNumbers) %>%
+  tm_map(removePunctuation) %>%
+  tm_map(stripWhitespace) %>% 
+  tm_map(content_transformer(tolower)) %>% 
+  tm_map(removeWords, stopwords("english")) %>% 
+  tm_map(stemDocument,language = "english")
+
+inspect(docs[1])
+```
+
+Step 3: Build a term-document matrix
+
+```{r}
+dtm <- TermDocumentMatrix(docs)
+m <- as.matrix(dtm)
+v <- sort(rowSums(m),decreasing=TRUE)
+d <- data.frame(word = names(v),freq=v)
+head(d, 10)
+```
+
+Step 4: Generate the Wordcloud
+
+```{r}
+wordcloud(
+  words = d$word,
+  freq = d$freq,
+  min.freq = 1,
+  max.words = 200,
+  random.order = FALSE,
+  rot.per = 0.35,
+  colors = brewer.pal(8, "Dark2")
+)
+```
+
+Step 5: Find frequent terms
+
+```{r}
+wordcloud2::wordcloud2(data=d, size=1.6, color='random-dark')
+```
+
+```{r}
+wordcloud2::wordcloud2(data=d, size = 0.7, shape = 'pentagon')
+```
+
+Step 6: Find their associations
+
+```{r}
+findAssocs(dtm, terms = "market", corlimit = 0.3)
+```
+
+The frequency table of words
+
+```{r}
+head(d, 10)
+```
+
+Step 7: Plot word frequencies
+
+```{r}
+barplot(d[1:10,]$freq, las = 2, names.arg = d[1:10,]$word,
+        col ="lightblue", main ="Most frequent words",
+        ylab = "Word frequencies")
+
+```
