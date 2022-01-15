@@ -20,7 +20,7 @@ Email: [mikenguyen\@mail.missouri.edu](mailto:mikenguyen@mail.missouri.edu){.ema
 
 Class Hours: 9:30 AM - 10:45 AM (Monday, Wednesday) 01/18/2022 - 05/05/2022
 
-Classroom: CORNELL HALL 131
+Classroom: CORNELL HALL 30
 
 Office Hours: 11:00 AM - 11:30 AM (Monday) or [by appointment](https://calendly.com/mikenguyenbio)
 
@@ -28,7 +28,7 @@ Office Hours: 11:00 AM - 11:30 AM (Monday) or [by appointment](https://calendly.
 
 *Basic Marketing Research*, Brown, Suter, and Churchill, 9th ed., 2018, Cengage (required)
 
-[Auto-access Trouble Shoot](https://github.com/mikenguyen13/mar4050_S22/raw/master/Autoaccess_troubleshoot.docx)
+[Auto-access Trouble Shoot](https://github.com/mikenguyen13/mar4050_S22/raw/main/Autoaccess_troubleshoot.docx)
 
 <br>
 
@@ -217,7 +217,7 @@ Assignments consist of:
 
 -   The quiz will cover class materials and chapter readings. It's very important that you read the chapter before taking the quiz.
 
--   You can use your notes during quizzes, but you can't search for answers online (lockdown browser).
+-   You can use your notes during quizzes, but you can't search for answers online (Lockdown browser).
 
 -   There will be 10 questions to be completed in 30 minutes.
 
@@ -227,7 +227,9 @@ Assignments consist of:
 
 -   Weekly quiz only goes up until week 12, which means you will only need to do 12 quizzes
 
--   Only the 10 quizzes with highest scores will be taken as your weekly quizzes grade. Since 2 lowest quizzes will given as your bonus/ extra credits, **no extensions whatever will be granted**.
+-   The first 10 quizzes will be taken as your weekly quiz grade. The last 2 will be taken as your extra credits.
+
+-   **No extensions whatever will be granted**.
 
 <br>
 
@@ -239,7 +241,7 @@ Assignments consist of:
 
 -   This is a chance for you to apply marketing research materials to real-life settings.
 
--   Please read the "[Case Discussions Document](https://github.com/mikenguyen13/mar4050_S22/raw/master/case_discussion/case_discussion.pdf)" for more information.
+-   Please read the "[Case Discussions Document](https://github.com/mikenguyen13/mar4050_S22/raw/main/case_discussion/case_discussion.pdf)" for more information.
 
 <br>
 
@@ -247,15 +249,15 @@ Assignments consist of:
 
 The group project is a small-scale marketing research project and includes problem definition, questionnaire design, data collection, data analysis, and writing up the research report. Each group will also give an oral presentation at the end of the semester. Group members will evaluate each other's performance on the project, and the evaluation will be considered in assigning individual students' grades for the project. If a group member consistently fails to contribute appropriately to the group's work, the other group members may request in writing to the instructor that the non-performing member be terminated from group. In such instances, the terminated group member will be allowed to use data collected by the group but will be required to complete remaining project assignments on his/her own, including data analysis, presentation, and final report. A terminated group member may appeal this decision to the instructor in writing, but must do so within **four calendar days of notice of dismissal**.
 
--   ***Project Assignments*** (PA) are described in a separate document tilted "[Project Assignment](https://github.com/mikenguyen13/mar4050_S22/raw/master/project_assignment/Project_Assignments_online.pdf)". They are to be completed by group members and turned in on the due dates shown. To be considered, any requests to re-grade an assignment must be made within **one week after the grade has been posted on Canvas.**
--   [Sample term project report](https://github.com/mikenguyen13/mar4050_S22/tree/master/project_assignment/written_report)
+-   ***Project Assignments*** (PA) are described in a separate document tilted "[Project Assignment](https://github.com/mikenguyen13/mar4050_S22/raw/main/project_assignment/Project_Assignments_online.pdf)". They are to be completed by group members and turned in on the due dates shown. To be considered, any requests to re-grade an assignment must be made within **one week after the grade has been posted on Canvas.**
+-   [Sample term project report](https://github.com/mikenguyen13/mar4050_S22/tree/main/project_assignment/written_report)
 -   Sign-up [here](https://docs.google.com/spreadsheets/d/1_dxqG99lQMBNp_87SlojglrzqVy6KK4FA4T4SBZ88rE/edit?usp=sharing)
 
 <br>
 
 ### Qualtrics Homework
 
-[This assignment](https://github.com/mikenguyen13/mar4050_S22/raw/master/Qualtrics%20assign.docx) helps you familiarize yourself with Qualtrics, which will aid you in preparing your questionnaire for the group project.
+[This assignment](https://github.com/mikenguyen13/mar4050_S22/raw/main/Qualtrics%20assign.docx) helps you familiarize yourself with Qualtrics, which will aid you in preparing your questionnaire for the group project.
 
 <br>
 
@@ -263,7 +265,7 @@ The group project is a small-scale marketing research project and includes probl
 
 -   Examinations will be multiple choice questions.
 -   Makeup exams will be given only in cases of verified illness or in other extenuating circumstances approved at least one week beforehand by the instructor. Makeup exams are normally given during final exam week. An unexcused absence from an exam will result in a grade of zero for that exam.
--   You can use your notes during exams, but you can't search for answers online (lockdown browser).
+-   You can use your notes during exams, but you can't search for answers online (Lockdown browser).
 
 <br>
 
@@ -280,7 +282,7 @@ The group project is a small-scale marketing research project and includes probl
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
 | Week     | **Date** | **Topic**                                         | **Assignments Due**               | **Chapter Reading** |
 +:========:+==========+===================================================+===================================+=====================+
-| 1        | Jan 19   | Course Intro                                      |                                   | 1                   |
+| 1        | Jan 19   | Course Intro                                      | Quiz 1 (Sunday)                   | 1                   |
 |          |          |                                                   |                                   |                     |
 |          |          | Problem Analysis                                  |                                   |                     |
 |          |          |                                                   |                                   |                     |
@@ -288,13 +290,17 @@ The group project is a small-scale marketing research project and includes probl
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
 | 2        | Jan 24   | The Research Process                              | PA #1 (end of the day)            | 2, 3                |
 |          |          |                                                   |                                   |                     |
-|          |          | Problem Definition                                | Quiz 1 (Sunday)                   |                     |
+|          |          | Problem Definition                                |                                   |                     |
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
 |          | Jan 26   | Intro to Project                                  | PA #2 (end of the day)            | 4                   |
-+----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
-| 3        | Jan 31   | Exploratory Research                              | CD #1 (Sunday)                    |                     |
 |          |          |                                                   |                                   |                     |
-|          |          | Research Designs                                  | Quiz 2 (Sunday)                   |                     |
+|          |          |                                                   | CD #1 (Sunday)                    |                     |
+|          |          |                                                   |                                   |                     |
+|          |          |                                                   | Quiz 2 (Sunday)                   |                     |
++----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
+| 3        | Jan 31   | Exploratory Research                              |                                   |                     |
+|          |          |                                                   |                                   |                     |
+|          |          | Research Designs                                  |                                   |                     |
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
 |          | Feb 2    | Information Systems, Dashboards, & Data Analytics | CD #2 (Sunday)                    | 5, 6                |
 |          |          |                                                   |                                   |                     |

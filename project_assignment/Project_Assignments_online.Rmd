@@ -8,7 +8,6 @@ urlcolor: blue
 
 The term project is designed to provide you with firsthand experience in designing and carrying out a marketing research project. The project is divided into 13 assignments, described below. Each completed assignment should be submitted by the date and time specified on Canvas. All components of an assignment must be turned in to receive full credit.
 
-
 | Assignment | Points |
 |------------|--------|
 | 1          | 10     |
@@ -158,7 +157,7 @@ Unless an exception is granted by the instructor, the questionnaire should fit o
 
 # Assignment 4.5: REVISED COPY OF QUESTIONNAIRE
 
-Revise and resubmit Assignment \#4 - Design a questionnaire
+Revise and resubmit Assignment #4 - Design a questionnaire
 
 Please **highlight** the changes that you made in green on both the questionnaire and the worksheet A and B.
 
@@ -272,18 +271,13 @@ On this date, you may meet with your professor to ask questions about your prese
 
 -   your questionnaire
 
--   your data analysis plan (Assignment \#6, updated)
+-   your data analysis plan (Assignment #6, updated)
 
--   initial data analysis report (PA \#8)
+-   initial data analysis report (PA #8)
 
 <br>
 
 # Assignment 10: TERM PROJECT PRESENTATION
-
-
-[comment]: <> (If you have a client, please notify your client in advance of the presentation date and time and invite your client to attend. Provide a map and parking information if necessary. The instructor can provide a parking permit (which requires name, license plate, make, model, and color to submit to the instructor) for your client if you provide **four days** advance notice.)
-
-
 
 This assignment is due the day before your presentation at 11:59 PM.
 
@@ -305,24 +299,21 @@ This assignment is due the day before your presentation at 11:59 PM.
 
 -   On presentation day, you must be set up and ready to go [before]{.ul} the beginning of class. If you are not ready at that time, there will be point deductions and you may be asked to give your presentation at another time. Class time is very tightly scheduled during presentation days, and it is necessary that all groups be ready to present at the appointed time.
 
+The grade for this assignment is based on
 
-The grade for this assignment is based on 
-
- * Presentation submission (5 points)
- * [Instructor's evaluation](https://docs.google.com/spreadsheets/d/1EmvxRjSobmu4Wcl0rrez1PjnlX6ky3J7pRfFn-Hjw1w/edit#gid=0) (5 points)
- * Peers' evaluations (10 points)
- 
+-   Presentation submission (5 points)
+-   [Instructor's evaluation](https://docs.google.com/spreadsheets/d/1EmvxRjSobmu4Wcl0rrez1PjnlX6ky3J7pRfFn-Hjw1w/edit#gid=0) (5 points)
+-   Peers' evaluations (10 points)
 
 <br>
 
 # Assignment 11: PRESENTATION CRITIQUE
 
-Step 1: Familiarize yourself with the details of the critique assignment as described in the "[Presentation Evaluation Form](https://github.com/mikenguyen13/mar4050_S22/blob/master/project_assignment/presentation/Presentation%20Evaluation%20Assignment.pdf)". 
+Step 1: Familiarize yourself with the details of the critique assignment as described in the "[Presentation Evaluation Form](https://github.com/mikenguyen13/mar4050_S22/blob/master/project_assignment/presentation/Presentation%20Evaluation%20Assignment.pdf)".
 
 Step 2: All teams that are not presenting are required to submit their evaluation (1 evaluation per team for a presenting group). To submit your presentation critique, please fill out [this Qualtrics survey](https://missouri.qualtrics.com/jfe/form/SV_0xPBVxlRxxOmejQ) after each presentation (you can submit the survey multiple times)
 
-Step 3: On your "Thank you" page, click "Download PDF." Please submit this PDF document to Assignment 11. 
-There should be one pdf document submission per group (you can submit to Assignment 11 on Canvas multiple times)
+Step 3: On your "Thank you" page, click "Download PDF." Please submit this PDF document to Assignment 11. There should be one pdf document submission per group (you can submit to Assignment 11 on Canvas multiple times)
 
 <br>
 
@@ -341,7 +332,7 @@ Notes:
 
 # Assignment 13: PEER EVALUATION (by 5 pm)
 
-In this assignment, you will evaluate your own performance throughout the project and that of other members of your group on the major project assignments completed so far. Click this [link](https://missouri.qualtrics.com/jfe/form/SV_cYYVV4ICwqR4mMK) to complete your evaluation. 
+In this assignment, you will evaluate your own performance throughout the project and that of other members of your group on the major project assignments completed so far. Click this [link](https://missouri.qualtrics.com/jfe/form/SV_cYYVV4ICwqR4mMK) to complete your evaluation.
 
 **Please submit the screenshot of your survey submission.**
 
