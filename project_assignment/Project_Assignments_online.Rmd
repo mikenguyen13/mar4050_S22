@@ -10,20 +10,20 @@ The term project is designed to provide you with firsthand experience in designi
 
 | Assignment | Points |
 |------------|--------|
-| 1          | 10     |
-| 2          | 10     |
-| 3          | 30     |
-| 3.5        | 10     |
-| 4          | 30     |
-| 4.5        | 10     |
-| 5          | 30     |
-| 6          | 10     |
+| 1          | 5      |
+| 2          | 5      |
+| 3          | 20     |
+| 3.5        | 20     |
+| 4          | 20     |
+| 4.5        | 20     |
+| 5          | 20     |
+| 6          | 20     |
 | 7          | 10     |
-| 8          | 10     |
+| 8          | 20     |
 | 9          | 0      |
-| 10         | 30     |
+| 10         | 20     |
 | 11         | 10     |
-| 12         | 40     |
+| 12         | 50     |
 | 13         | 10     |
 | Total      | 250    |
 
@@ -37,7 +37,7 @@ a)  Title your assignment word document file name with **'Group & team captain's
 
 b)  Title your assignment word document file name with **'Random & your initial'** if you would like the instructor to assign you to a team.
 
-This assignment needs to be submitted individually by each student in the class.
+This assignment needs to be submitted **individually** by each student in the class.
 
 <br>
 

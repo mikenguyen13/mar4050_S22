@@ -241,6 +241,8 @@ Assignments consist of:
 
 -   This is a chance for you to apply marketing research materials to real-life settings.
 
+-   Each case study is 20 points. There are a total of 6 cases. You will be graded on the first 5, and the last case is for extra credit.
+
 -   Please read the "[Case Discussions Document](https://github.com/mikenguyen13/mar4050_S22/raw/main/case_discussion/case_discussion.pdf)" for more information.
 
 <br>
@@ -308,7 +310,7 @@ The group project is a small-scale marketing research project and includes probl
 |          |          |                                                   |                                   |                     |
 |          |          |                                                   | Quiz 3 (Sunday)                   |                     |
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
-| 4        | Feb 7    | Project Meeting                                   |                                   |                     |
+| 4        | Feb 7    | **Project Meeting**                               |                                   |                     |
 |          |          |                                                   |                                   |                     |
 |          |          | (RM 449)                                          |                                   |                     |
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
@@ -338,7 +340,7 @@ The group project is a small-scale marketing research project and includes probl
 |          |          |                                                   |                                   |                     |
 |          |          | Data Preparation                                  |                                   |                     |
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
-|          | Mar 2    | Project Meeting                                   | PA \# 4.5 (revision) (Sunday)     |                     |
+|          | Mar 2    | **Project Meeting**                               | PA \# 4.5 (revision) (Sunday)     |                     |
 |          |          |                                                   |                                   |                     |
 |          |          | (RM 449)                                          | CD #6 (Sunday)                    |                     |
 |          |          |                                                   |                                   |                     |
@@ -360,9 +362,9 @@ The group project is a small-scale marketing research project and includes probl
 |          |          |                                                   |                                   |                     |
 |          |          |                                                   | Quiz 10 (Sunday)                  |                     |
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
-| 11       |          | Spring Break                                      |                                   |                     |
+|          |          | **Spring Break**                                  |                                   |                     |
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
-| 12       | Apr 4    | Correlation                                       |                                   | 17                  |
+| 11       | Apr 4    | Correlation                                       |                                   | 17                  |
 |          |          |                                                   |                                   |                     |
 |          |          | Simple Regression                                 |                                   |                     |
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
@@ -370,7 +372,7 @@ The group project is a small-scale marketing research project and includes probl
 |          |          |                                                   |                                   |                     |
 |          |          |                                                   | Quiz 11 (Sunday)                  |                     |
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
-| 13       | Apr 11   | Multiple Regression Basics                        |                                   | 18                  |
+| 12       | Apr 11   | Multiple Regression Basics                        |                                   | 18                  |
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
 |          | Apr 13   | Multiple Regression Applications                  | Quiz 12 (Sunday)                  |                     |
 |          |          |                                                   |                                   |                     |
@@ -378,7 +380,7 @@ The group project is a small-scale marketing research project and includes probl
 |          |          |                                                   |                                   |                     |
 |          |          |                                                   | PA #9 (optional) (end of the day) |                     |
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
-| 14       | Apr 18   | Project Meeting (optional)                        |                                   |                     |
+| 13       | Apr 18   | **Project Meeting (optional)**                    |                                   |                     |
 |          |          |                                                   |                                   |                     |
 |          |          | (RM 449)                                          |                                   |                     |
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
@@ -386,7 +388,7 @@ The group project is a small-scale marketing research project and includes probl
 |          |          |                                                   |                                   |                     |
 |          |          |                                                   | PA #10 (due the day before)       |                     |
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
-| 15       | Apr 25   | Presentations                                     | 3 presentations                   |                     |
+| 14       | Apr 25   | Presentations                                     | 3 presentations                   |                     |
 |          |          |                                                   |                                   |                     |
 |          |          |                                                   | PA #10 (the day before)           |                     |
 |          |          |                                                   |                                   |                     |
@@ -394,11 +396,11 @@ The group project is a small-scale marketing research project and includes probl
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
 |          | Apr 27   | Review for Exam                                   |                                   |                     |
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
-| 16       | May 2    | **Second Exam**                                   |                                   |                     |
+| 15       | May 2    | **Second Exam**                                   |                                   |                     |
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
 |          | May 4    | Project Checkup                                   |                                   |                     |
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
-| 17       | May 9    | Project Report Due                                | PA #12 (end of the day)           |                     |
+| 16       | May 9    | Project Report Due                                | PA #12 (end of the day)           |                     |
 |          |          |                                                   |                                   |                     |
 |          |          |                                                   | PA #13 (end of the day)           |                     |
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
