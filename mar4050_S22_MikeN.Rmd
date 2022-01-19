@@ -334,13 +334,13 @@ The group project is a small-scale marketing research project and includes probl
 |          |          |                                                   |                                   |                     |
 |          |          |                                                   | PA #4 (Sunday)                    |                     |
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
-| 7        | Feb 28   | Sampling                                          | PA #5 (strongly suggest to begin) | 15                  |
+| 7        | Feb 28   | **Project Meeting**                               | PA #5 (strongly suggest to begin) | 15                  |
 |          |          |                                                   |                                   |                     |
-|          |          | Data Preparation                                  |                                   |                     |
+|          |          | (RM449)                                           |                                   |                     |
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
-|          | Mar 2    | **Project Meeting**                               | PA \# 4.5 (revision) (Sunday)     |                     |
+|          | Mar 2    | Sampling                                          | PA \# 4.5 (revision) (Sunday)     |                     |
 |          |          |                                                   |                                   |                     |
-|          |          | (RM 449)                                          | CD #6 (Sunday)                    |                     |
+|          |          | Data Preparation                                  | CD #6 (Sunday)                    |                     |
 |          |          |                                                   |                                   |                     |
 |          |          |                                                   | Quiz 7 (Sunday)                   |                     |
 +----------+----------+---------------------------------------------------+-----------------------------------+---------------------+
