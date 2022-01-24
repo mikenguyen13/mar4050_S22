@@ -9,12 +9,12 @@ editor_options:
 [Python code](https://github.com/dsp444/save_canvas_discussion)
 
 ```{r, eval=FALSE}
-html = "https://umsystem.instructure.com/api/v1/courses/41919/discussion_topics/595033/view?include_new_entries=1&include_enrollment_state=1"
+html = "https://umsystem.instructure.com/api/v1/courses/53757/discussion_topics/983175/view?include_new_entries=1&include_enrollment_state=1"
 ```
 
 Step 1: Import libraries
 
-```{r, message=FALSE}
+```{r, message=FALSE, warning=FALSE}
 library("tidyverse")
 library("tm")
 library("SnowballC")
@@ -25,24 +25,59 @@ library("RColorBrewer")
 Step 2: Import and clean data
 
 ```{r, message=FALSE}
-data = rio::import(file.path(getwd(),"discussion-report-all_data.csv"))
+data = jsonlite::fromJSON(file.path(getwd(), "view.json"))
 
-clean_data = data %>% 
-  distinct(entry_id, .keep_all = T) %>% 
-  select(entry_message) %>% 
-  mutate(entry_message = gsub("&nbsp;"," ",entry_message,fixed = TRUE))
+# data = rio::import(file.path(getwd(),"discussion-report-all_data.csv"))
 
-docs = Corpus(VectorSource(clean_data$entry_message))
+clean_data = data$view %>% 
+  distinct(id, .keep_all = T) %>% 
+  select(message) %>% 
+  
+  mutate(message = gsub("&nbsp;"," ",message,fixed = TRUE)) %>%
+  
+  mutate(message = gsub("<p>", " ", message , fixed = T)) %>%
+  mutate(message = gsub("<strong>", " ", message , fixed = T)) %>%
+  mutate(message = gsub("<span>", " ", message , fixed = T)) %>%
+  
+    mutate(message = gsub("</p>", " ", message , fixed = T)) %>%
+  mutate(message = gsub("</strong>", " ", message , fixed = T)) %>%
+  mutate(message = gsub("</span>", " ", message , fixed = T)) %>%
+  
+  mutate(message = gsub("What is your name?", " ", message, fixed = T)) %>%
+  mutate(message = gsub("What is your quest?", " ", message, fixed = T)) %>%
+  mutate(message = gsub("What is your favorite color?", " ", message, fixed = T)) %>%
+  mutate(
+    message = gsub(
+      "What is the airspeed velocity of an unladen swallow?",
+      " ",
+      message,
+      fixed = T
+    )
+  ) %>%
+  mutate(
+    message = gsub(
+      "Some questions are just hard! What question would you like to be able to answer at the end of this course? In other words, what would you like to learn about marketing research?",
+      " ",
+      message,
+      fixed = T
+    )
+  ) 
+  
+  
+  # mutate(message = gsub("[^[:alnum:][:blank:]+?&/\\-]", " ", message))
+  # mutate(message = gsub("<p> | <strong> | </p>  |</strong>"," ",message,fixed = TRUE))
+
+docs = Corpus(VectorSource(clean_data$message))
 
 docs <- docs %>%
   tm_map(removeNumbers) %>%
   tm_map(removePunctuation) %>%
   tm_map(stripWhitespace) %>% 
   tm_map(content_transformer(tolower)) %>% 
-  tm_map(removeWords, stopwords("english")) %>% 
-  tm_map(stemDocument,language = "english")
+  tm_map(removeWords, stopwords("english")) #%>% 
+  # tm_map(stemDocument,language = "english")
 
-inspect(docs[1])
+inspect(docs[2])
 ```
 
 Step 3: Build a term-document matrix
@@ -52,7 +87,7 @@ dtm <- TermDocumentMatrix(docs)
 m <- as.matrix(dtm)
 v <- sort(rowSums(m),decreasing=TRUE)
 d <- data.frame(word = names(v),freq=v)
-head(d, 10)
+head(d, 20)
 ```
 
 Step 4: Generate the Wordcloud
