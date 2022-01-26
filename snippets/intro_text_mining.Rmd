@@ -8,6 +8,14 @@ editor_options:
 
 [Python code](https://github.com/dsp444/save_canvas_discussion)
 
+
+Econ Stata
+Stat: SAS
+Stat: R
+Psychology: SPSS
+CS: Python
+
+
 ```{r, eval=FALSE}
 html = "https://umsystem.instructure.com/api/v1/courses/53757/discussion_topics/983175/view?include_new_entries=1&include_enrollment_state=1"
 ```
@@ -25,6 +33,8 @@ library("RColorBrewer")
 Step 2: Import and clean data
 
 ```{r, message=FALSE}
+
+
 data = jsonlite::fromJSON(file.path(getwd(), "view.json"))
 
 # data = rio::import(file.path(getwd(),"discussion-report-all_data.csv"))
@@ -132,5 +142,4 @@ Step 7: Plot word frequencies
 barplot(d[1:10,]$freq, las = 2, names.arg = d[1:10,]$word,
         col ="lightblue", main ="Most frequent words",
         ylab = "Word frequencies")
-
 ```
