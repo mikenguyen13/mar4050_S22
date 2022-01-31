@@ -15,10 +15,10 @@ For each case discussion, please post the following on Canvas:
 
 | Post                                                   | Minimum \# of words | Points |
 |--------------------------------------------------------|---------------------|--------|
-| Your answers/solution to the case questions            | 100 words           | 5      |
-| How is it related to the textbook chapters?            | 50 words            | 2.5    |
+| Your answers/solution to the case questions            | 100 words           | 10     |
+| How is it related to the textbook chapters?            | 50 words            | 5      |
 | Questions for the professor or the class               | optional            |        |
-| Your replies to at least **two** other students' posts | 50 words per post   | 2.5    |
+| Your replies to at least **two** other students' posts | 50 words per post   | 5      |
 
 Note: 
 
@@ -53,7 +53,7 @@ credits.
 
 <br>
 
-# DISCUSSION CASE \#1 A Bigger Bookshop?
+# DISCUSSION CASE #1 A Bigger Bookshop?
 
 A used book dealer with a small store in downtown Columbia is
 considering expanding. The shop occupies a small and crowded storefront
@@ -72,7 +72,7 @@ IV. If you were conducting a survey to help this book dealer make these
 
 <br>
 
-# DISCUSSION CASE \#2 Mario's Macaroni
+# DISCUSSION CASE #2 Mario's Macaroni
 
 A chain of 43 Italian restaurants in the Midwest has experienced a
 gradual sales decline, starting about a year ago. You have been asked to
@@ -99,7 +99,7 @@ method from your textbook (primarily chapters 4 and 6).
 
 <br>
 
-# DISCUSSION CASE \#3
+# DISCUSSION CASE #3
 
 Here are the [Case 3
 materials](https://github.com/mikenguyen13/mar4050_F21/raw/master/case_discussion/Materials%20related%20to%20Case3.docx)
@@ -148,7 +148,7 @@ RQ1O: Is age related to how often a person purchases floral items?
 
 <br>
 
-# DISCUSSION CASE \#4 The Red Lion
+# DISCUSSION CASE #4 The Red Lion
 
 The Red Lion, Ltd., is a chain of 13 bar restaurants located in seven
 major cities on the east coast. The original Red Lion was opened in 2003
@@ -189,7 +189,7 @@ would recommend to Mr. Campion.
 
 <br>
 
-# DISCUSSION CASE \#5 Grand Seaside Resort
+# DISCUSSION CASE #5 Grand Seaside Resort
 
 When the Grand Seaside Resort was built seven years ago, it was the most
 upscale and elegant resort hotel in Pensacola, Florida. Two years ago, a
@@ -253,7 +253,7 @@ as long as the total for the column sums to \$100
 
 <br>
 
-# DISCUSSION CASE \#6 --- Mediacom
+# DISCUSSION CASE #6 --- Mediacom
 
 Mediacom is in the process of changing its package and pricing structure
 for cable TV and internet services. It has developed four media packages
