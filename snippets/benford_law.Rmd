@@ -11,11 +11,11 @@ knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
 
 -   Similar to Zipf's law: for a corpus of natural language: the frequency of any word is inversely proportional to its rank in the frequency table.
 
-    -   Ex: TTe most frequent word will occur approximately twice as often as the second most frequent word, three times as often as the third most frequent word
+    -   Ex: The most frequent word will occur approximately twice as often as the second most frequent word, three times as often as the third most frequent word
 
 -   **Newcomb--Benford law**, the **law of anomalous numbers**, or the **first-digit law**
 
-    -   In an natural numerical data, the leading digit is likely to be small:
+    -   In any natural numerical data, the leading digit is likely to be small:
 
         -   The number 1 appears as leading significant about 30% of the time and so on.
 
@@ -171,5 +171,4 @@ P <- ggBarplot +
 print(P)
 ```
 
-
-Moral of the story: Please don't try to fabricate data. Unless you have a sophisticated random number generator that can match the Benford's law, it's futile. 
+Moral of the story: Please don't try to fabricate data. Unless you have a sophisticated random number generator that can match the Benford's law, it's futile.
