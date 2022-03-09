@@ -111,7 +111,7 @@ Organize this assignment so that each objective is followed by the research ques
 
 The form of research questions will be discussed in class. You can also look at example term projects ([1](https://github.com/mikenguyen13/mar4050_S22/blob/main/project_assignment/written_report/example1%20SlideDoc%20research%20report.pdf),[2](https://github.com/mikenguyen13/mar4050_S22/blob/main/project_assignment/written_report/example2%20SlideDoc%20research%20report.pdf)) to see examples of research questions. Some important points to remember are below.
 
--   Research questions are [not]{.ul} the same as questionnaire questions. Questionnaire questions are what you ask the consumer on a survey. Research questions are the questions the **manager** wants to answer. Review lecture and [Case Discussion 1](https://github.com/mikenguyen13/mar4050_S22/raw/main/case_discussion/CE1%20%20discussion.docx) to make sure your research questions are phrased appropriately. They should [not]{.ul} include any second person pronouns.
+-   Research questions are [not]{.underline} the same as questionnaire questions. Questionnaire questions are what you ask the consumer on a survey. Research questions are the questions the **manager** wants to answer. Review lecture and [Case Discussion 1](https://github.com/mikenguyen13/mar4050_S22/raw/main/case_discussion/CE1%20%20discussion.docx) to make sure your research questions are phrased appropriately. They should [not]{.underline} include any second person pronouns.
 
 -   The research questions should be very **specific**.
 
@@ -151,7 +151,7 @@ For this assignment, complete all steps of the questionnaire design process as c
 
 5.  a completed copy of Questionnaire Worksheet B ([WorksheetB template](https://github.com/mikenguyen13/mar4050_S22/raw/main/project_assignment/questionnaire/8-Qnaire%20worksheet%20B.xls))
 
-The questionnaire must include [**screener questions**]{.ul} (if relevant) and [**a complete set of demographic questions**]{.ul} appropriate to the people you are surveying.
+The questionnaire must include [**screener questions**]{.underline} (if relevant) and [**a complete set of demographic questions**]{.underline} appropriate to the people you are surveying.
 
 Unless an exception is granted by the instructor, the questionnaire should fit on the front and back of a single sheet of letter-size paper.
 
@@ -183,7 +183,7 @@ Submit your results report on Canvas.
 
 # Assignment 6: DATA ANALYSIS PLAN
 
-Type the data analysis plan for your project that you develop in class into a formal document, using the [Data Analysis Plan template](https://github.com/mikenguyen13/mar4050_S22/raw/main/project_assignment/Data%20Anal%20Plan%20wkst.xlsx) and the [template](https://github.com/mikenguyen13/mar4050_S22/raw/main/project_assignment/data%20analysis%20plan%20grid.xlsx). [Include at least one group comparison analysis in your data analysis plan]{.ul}. You can use this [Qualtrics guide](https://github.com/mikenguyen13/mar4050_S22/raw/main/project_assignment/differences%20RQ%20analysis%20on%20Qualtrics.docx) for the group comparison research questions. You don't need to do the analysis yet, you only need to plan for the analysis.
+Type the data analysis plan for your project that you develop in class into a formal document, using the [Data Analysis Plan template](https://github.com/mikenguyen13/mar4050_S22/raw/main/project_assignment/Data%20Anal%20Plan%20wkst.xlsx) and the [template](https://github.com/mikenguyen13/mar4050_S22/raw/main/project_assignment/data%20analysis%20plan%20grid.xlsx). [Include at least one group comparison analysis in your data analysis plan]{.underline}. You can use this [Qualtrics guide](https://github.com/mikenguyen13/mar4050_S22/raw/main/project_assignment/differences%20RQ%20analysis%20on%20Qualtrics.docx) for the group comparison research questions. You don't need to do the analysis yet, you only need to plan for the analysis.
 
 Submit your typed data analysis plan on Canvas including:
 
@@ -233,7 +233,7 @@ This evaluation is confidential and will not be shared with group members. Howev
 
 # Assignment 8: INITIAL DATA ANALYSIS REPORT
 
-To answer your research questions, you must analyze your data. In the assignment, you will conduct the analyses to answer your research questions and summarize the results in a pdf document. [Be sure to number the pages on this document]{.ul}. You can consult the following documents that we went through in class:
+To answer your research questions, you must analyze your data. In the assignment, you will conduct the analyses to answer your research questions and summarize the results in a pdf document. [Be sure to number the pages on this document]{.underline}. You can consult the following documents that we went through in class:
 
 1.  You can use this [Qualtrics guide](https://github.com/mikenguyen13/mar4050_S22/raw/main/project_assignment/differences%20RQ%20analysis%20on%20Qualtrics.docx) for the difference research questions.
 
@@ -259,7 +259,7 @@ For each research question
 
 -   add bar charts to visualize the results.
 
-You can use an outline format for your report. [Submit the report on Canvas]{.ul}.
+You can use an outline format for your report. [Submit the report on Canvas]{.underline}.
 
 <br>
 
@@ -295,7 +295,7 @@ This assignment is due the day before your presentation at 11:59 PM.
 
 -   You are responsible for practicing your presentation on the classroom equipment before presentation day and making sure that everyone in the group is familiar with how the equipment works.
 
--   On presentation day, you must be set up and ready to go [before]{.ul} the beginning of class. If you are not ready at that time, there will be point deductions and you may be asked to give your presentation at another time. Class time is very tightly scheduled during presentation days, and it is necessary that all groups be ready to present at the appointed time.
+-   On presentation day, you must be set up and ready to go [before]{.underline} the beginning of class. If you are not ready at that time, there will be point deductions and you may be asked to give your presentation at another time. Class time is very tightly scheduled during presentation days, and it is necessary that all groups be ready to present at the appointed time.
 
 The grade for this assignment is based on
 
