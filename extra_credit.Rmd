@@ -1,0 +1,23 @@
+---
+title: "Bonus Problem"
+author: "Mike Nguyen"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+You are a researcher at a marketing company responsible for doing analysis. You will have to interpret your results in layman's terms for your boss. Your company has already hired an external agency to go and collect data. Now, it's your job to analyze this dataset and find insights.
+
+Extra credit: 20
+
+1.  Get the mode for the variable
+2.  Get the mean for the variable
+3.  Difference question:
+    1.  Categorical
+
+    2.  Continuous
+4.  Cross-tabuluation
+5.  Regression
