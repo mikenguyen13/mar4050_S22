@@ -19,5 +19,5 @@ Extra credit: 20
     1.  Categorical
 
     2.  Continuous
-4.  Cross-tabuluation
+4.  Cross-tabulation
 5.  Regression
