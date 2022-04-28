@@ -30,7 +30,7 @@ Questions:
 2.  Get the mean for the variable **satisfaction, age**. Interpret what these numbers mean
 3.  Is there a difference between male and female regarding their levels of satisfaction? Conduct F-test, t-test, and interpret
 4.  Is there a difference between those who have social media accounts and those who don't regarding their levels of satisfaction? Conduct F-test, t-test, and interpret
-5.  Create a cross-tabulation table with the variables age social media and gender (each cell contains the number of customers belongs to that category).
+5.  Create a cross-tabulation table with the variables social media and gender (each cell contains the number of customers belongs to that category).
 6.  Conduct regression analysis and report and interpret the regression equation
 
 ```{r, include = FALSE}
